@@ -1,3 +1,3 @@
-Lead member of ![@poiw-org](https://github.com/poiw-org).
-
-Most of my public repos are old AF. Don't get your node_modules in a twist.
+### Hey there ✌️, my (nick)name is
+# DONFN.
+### I'm a Full-Stack Web Developer who also loves contrubuting to FOSS projects. You can contact me at d0nfn@pm.me.
